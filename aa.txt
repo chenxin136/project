@@ -3,4 +3,3 @@ test 1 . hahah
 
 commit A: test AAAAAA
 commit B: test BBBBBBBBB
-commit C: test CCCCCCCCCCC
